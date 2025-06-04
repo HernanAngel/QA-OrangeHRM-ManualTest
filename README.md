@@ -30,6 +30,7 @@ This is a manual QA testing project focused on the [OrangeHRM Demo](https://open
 - Google Sheets → exported as `.xlsx`
 - Markdown for bug reports
 - Git + GitHub for version control
+- JIRA for ticket tracking and bug lifecycle simulation
 
 ---
 
