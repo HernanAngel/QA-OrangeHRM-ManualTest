@@ -26,12 +26,13 @@ This is a manual QA testing project focused on the [OrangeHRM Demo](https://open
 
 ## 🛠️ Tools Used
 
-- Manual testing
+- Manual QA testing
+- Chrome DevTools
 - Google Sheets → exported as `.xlsx`
 - Markdown for bug reports
 - Git + GitHub for version control
 - JIRA for ticket tracking and bug lifecycle simulation
-
+- Security-minded testing (input validation, session testing)
 ---
 
 ## ✅ Key Skills Demonstrated
